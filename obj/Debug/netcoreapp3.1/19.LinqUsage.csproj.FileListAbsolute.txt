@@ -1,0 +1,13 @@
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.exe
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.deps.json
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.runtimeconfig.json
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.runtimeconfig.dev.json
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.dll
+D:\QA__\GitProjects\19.LinqUsage\bin\Debug\netcoreapp3.1\19.LinqUsage.pdb
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.csprojAssemblyReference.cache
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.AssemblyInfo.cs
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.dll
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.pdb
+D:\QA__\GitProjects\19.LinqUsage\obj\Debug\netcoreapp3.1\19.LinqUsage.genruntimeconfig.cache
