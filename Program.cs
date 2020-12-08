@@ -2,49 +2,26 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace _19.LinqUsage
+namespace _20.LinqExersise
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Linq is adding some m ore functional;ity to Objecys to collections, 
-            // Linq is attachinmg methods to collections !
-            // write a program that reads n intergers and finds its max, its min, its average, it sum;
+            int n = int.Parse(Console.ReadLine());
 
-             //double input = double.Parse(Console.ReadLine());
+            double[] numbers = new double[n];
 
-            double n = Double.Parse(Console.ReadLine()); // how many number we will accept through the Console
-            //double numbers = Double.Parse(Console.ReadLine());
-
-            List<double> list = new List<double>();
-
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                double currNum = Double.Parse(Console.ReadLine());
-                list.Add(currNum);
+                double currNum = double.Parse(Console.ReadLine());
+                numbers[i] = currNum;
             }
-
-            //while (true)
-            //{
-            //    if ( n < 0 )
-            //    {
-            //        break;
-            //    }
-            //    double currNum = n;
-            //    list.Add(currNum);
-
-            //}
             Console.WriteLine();
-            Console.WriteLine("Min is: " + list.Min());
-            Console.WriteLine("Max is : " + list.Max());
-            Console.WriteLine("Sum is : " + list.Sum());
-            Console.WriteLine("The Average is : " + list.Average());
-
-             
-
-
-
+            Console.WriteLine("Min is: {0} ", numbers.Min());
+            Console.WriteLine("Max is: {0}", numbers.Max());
+            Console.WriteLine("Sum is : {0}", numbers.Sum());
+            Console.WriteLine("Average is : {0} ", numbers.Average());
 
 
         }
